@@ -1,7 +1,6 @@
 Olá, eu sou o Bruno Alexandre 👋
 
 - 🌱 Atualmente estou estudando HTML, CSS, JavaScript e Java
-- 👯 I’m looking to collaborate on ...
 - 📫 brunoale77@gmail.com
 
 <div align="center">
