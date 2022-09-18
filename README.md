@@ -1,5 +1,6 @@
 Olá, eu sou o Bruno Alexandre 👋
 
+- 👀 Focado em desenvolvimento web
 - 🌱 Atualmente estou estudando HTML, CSS, JavaScript e, mais recentemente, Java
 - 📫 brunoale77@gmail.com
 
