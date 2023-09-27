@@ -1,7 +1,7 @@
 Olá, eu sou o Bruno Alexandre 👋
 
-- 👀 Focado em desenvolvimento web
-- 🌱 Atualmente estou estudando HTML, CSS, JavaScript e, mais recentemente, Java
+- 👀 Focado em desenvolvimento web Full-Stack.
+- 🌱 Desenvolvendo em Python, JavaScript, Node e SQL.
 - 📫 brunoale77@gmail.com
 
 <div align="center">
