@@ -1,4 +1,4 @@
-Olá, eu sou o Bruno Alexandre 👋
+Olá, eu sou o Bruno Alexandre!
 
 - 👀 Focado em desenvolvimento web Full-Stack.
 - 🌱 Desenvolvendo em Python, JavaScript, Node e SQL.
