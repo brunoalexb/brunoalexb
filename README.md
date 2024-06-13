@@ -1,7 +1,7 @@
 Olá, eu sou o Bruno Alexandre!
 
--  Focado em desenvolvimento web Full-Stack.
--  Desenvolvendo em Python, JavaScript, Node e SQL.
+- Desenvolvimento Web Full-Stack.
+-  JavaScript, React, Node e Python.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - Faculdade Impacta.
 - 🎓 Bacharel em História - USP.
 - 📫 brunoale77@gmail.com
