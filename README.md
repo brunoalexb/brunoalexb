@@ -1,4 +1,4 @@
-Olá, eu sou o Bruno Alexandre!
+Olá, eu sou o Bruno!
 
 - Desenvolvimento Web Full-Stack.
 -  JavaScript, React, Node e Python.
