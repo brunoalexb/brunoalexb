@@ -1,7 +1,7 @@
 Olá, eu sou o Bruno!
 
 - Desenvolvimento Web Full-Stack.
--  JavaScript, React, Node e Python.
+-  JavaScript, Java, React, Node e Python.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas - Faculdade Impacta.
 - 🎓 Bacharel em História - USP.
 - 📫 brunoale77@gmail.com
